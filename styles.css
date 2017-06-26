@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+h3  {
+  color: purple;
+}
+
+p {
+  color: green;
+}
+
+a {
+  color: black;
+  font-style: italic;
+}
+
+img {
+  border: 5px solid black;
+}
