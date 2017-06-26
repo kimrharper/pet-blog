@@ -1,20 +1,54 @@
 h1 {
   color: red;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 h3  {
   color: purple;
+  text-align: center;
+}
+
+.list {
+  display: block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-2 {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-3 {
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ol {
 }
 
 p {
   color: green;
+  text-align: center;
 }
 
 a {
   color: black;
   font-style: italic;
+  text-align: center;
 }
 
 img {
   border: 5px solid black;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 }
